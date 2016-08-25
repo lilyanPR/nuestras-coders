@@ -1,0 +1,42 @@
+.img1{
+	background-image: url("../img/profile-1.png");
+}
+
+.img2{
+	background-image: url("../img/profile-2.png");
+}
+
+.img3{
+	background-image: url("../img/profile-3.png");
+}
+
+.img4{
+	background-image: url("../img/profile-4.png");
+}
+
+.img5{
+	background-image: url("../img/profile-5.png");
+}
+
+.img6{
+	background-image: url("../img/profile-6.png");
+}
+
+.caja{
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	position: relative;
+	margin: 15px;
+}
+
+.nombre{
+	bottom: 0px;
+	right: 0px;
+	position: absolute;
+	color: white;
+}
+
+.box{
+	width: 60%;
+}
